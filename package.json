@@ -1,0 +1,21 @@
+{
+  "name": "tddnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shopping-cart-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TDD",
+    "node",
+    "mocha",
+    "chai"
+  ],
+  "author": "abhinav042",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
